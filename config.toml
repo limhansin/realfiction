@@ -1,0 +1,5 @@
+theme = "ananke"
+baseURL = "https://realfiction-ten.vercel.app/"
+languageCode = "ko-kr"
+title = "realfiction"
+publishDir = "dist/site"
